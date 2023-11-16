@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Second_Dz/1.0.0": {
+        "runtime": {
+          "Second_Dz.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Second_Dz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

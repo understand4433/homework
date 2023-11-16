@@ -1,0 +1,15 @@
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\DZ\16.11.2023\Second_Dz\bin\Debug\net6.0\Second_Dz.exe
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\DZ\16.11.2023\Second_Dz\bin\Debug\net6.0\Second_Dz.deps.json
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\DZ\16.11.2023\Second_Dz\bin\Debug\net6.0\Second_Dz.runtimeconfig.json
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\DZ\16.11.2023\Second_Dz\bin\Debug\net6.0\Second_Dz.dll
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\DZ\16.11.2023\Second_Dz\bin\Debug\net6.0\Second_Dz.pdb
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\DZ\16.11.2023\Second_Dz\obj\Debug\net6.0\Second_Dz.csproj.AssemblyReference.cache
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\DZ\16.11.2023\Second_Dz\obj\Debug\net6.0\Second_Dz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\DZ\16.11.2023\Second_Dz\obj\Debug\net6.0\Second_Dz.AssemblyInfoInputs.cache
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\DZ\16.11.2023\Second_Dz\obj\Debug\net6.0\Second_Dz.AssemblyInfo.cs
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\DZ\16.11.2023\Second_Dz\obj\Debug\net6.0\Second_Dz.csproj.CoreCompileInputs.cache
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\DZ\16.11.2023\Second_Dz\obj\Debug\net6.0\Second_Dz.dll
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\DZ\16.11.2023\Second_Dz\obj\Debug\net6.0\refint\Second_Dz.dll
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\DZ\16.11.2023\Second_Dz\obj\Debug\net6.0\Second_Dz.pdb
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\DZ\16.11.2023\Second_Dz\obj\Debug\net6.0\Second_Dz.genruntimeconfig.cache
+C:\Users\gkgam\OneDrive\Рабочий стол\c-sharp\DZ\16.11.2023\Second_Dz\obj\Debug\net6.0\ref\Second_Dz.dll
